@@ -1,0 +1,1 @@
+How to use gradient using SDL1
